@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Olá! Eu sou Gabriel Cavalcante<br>- 👨‍💻 Atualmente trabalho com Suporte Técnico <br>- 👀 Interessado em programação<br>- 🌱 Atualmente aprendendo Javascript | Python | AWS Web Services<br>
+- 👋 Olá! Eu sou Gabriel Cavalcante<br>- 👨‍💻 Atualmente trabalho com Suporte Técnico <br>- 👀 Interessado em programação<br>- 🌱 Atualmente aprendendo Javascript | Python 
 
 
 ## 🌐 Socials:
